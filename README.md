@@ -32,7 +32,7 @@
 - ✍️ Writing about tech, AI, and life.  
 - 🌍 Always excited about global collaborations.  
 - 🐍 Watch my contribution graph turn into a snake:  
-  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/SakshamSharma07/SakshamSharma07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
