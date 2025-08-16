@@ -23,16 +23,14 @@
 ---
 
 ### 📊 GitHub Snapshot  
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent)  
-![Streak](https://streak-stats.demolab.com?user=yourusername&theme=transparent)  
+![Stats](https://github-readme-stats.vercel.app/api?username=SakshamSharma07&show_icons=true&theme=transparent)  
+![Streak](https://streak-stats.demolab.com?user=SakshamSharma07&theme=transparent)  
 
 ---
 
 ### 🌟 A Little Extra
 - ✍️ Writing about tech, AI, and life.  
 - 🌍 Always excited about global collaborations.  
-- 🐍 Watch my contribution graph turn into a snake:  
-![Snake animation](https://github.com/SakshamSharma07/SakshamSharma07/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
