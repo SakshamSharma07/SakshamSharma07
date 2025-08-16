@@ -1,10 +1,7 @@
 # Hi there, I'm Saksham Sharma 👋  
-🚀 Senior Software Engineer | Architect | AI/ML Enthusiast | Traveler  
+🚀 Senior Software Engineer | Architect 
 
-![Banner](your-banner-link-here)
-
-### 💡 About Me
-- 🔭 Currently building **[oneAI](https://github.com/yourrepo)** – an AI/ML model training platform.  
+### 💡 About Me 
 - 🌱 Exploring **.NET, C#, Python, MERN stack** and blending them with AI.  
 - 💬 Ask me about **system architecture, regulatory reporting, or algorithmic trading**.  
 - ✨ Fun fact: When I’m not coding, you’ll find me traveling 🏔️ or writing poetry ✍️.  
@@ -22,16 +19,13 @@
 ---
 
 ### 🚀 Featured Projects
-🔹 [oneAI](https://github.com/yourrepo) – AI/ML training platform with admin panel & AI contests.  
 🔹 [College Community](https://github.com/yourrepo) – Social + educational hub for students (React + Node.js).  
-🔹 [AlgoTrader](https://github.com/yourrepo) – Algorithmic trading system with Bloomberg API integration.  
 
 ---
 
-### 📊 GitHub Stats
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)  
+### 📊 GitHub Snapshot  
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent)  
+![Streak](https://streak-stats.demolab.com?user=yourusername&theme=transparent)  
 
 ---
 
